@@ -5,7 +5,7 @@
     "strict": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "jsx": "react-native",
+    "jsx": "react",
     "lib": ["dom", "es5", "es6", "scripthost"],
     "target": "es5",
     "outDir": "built",
