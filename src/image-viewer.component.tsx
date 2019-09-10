@@ -14,7 +14,7 @@ import {
   TouchableWithoutFeedback,
   View,
   ViewStyle
-} from 'react-native';
+} from 'react-native-web';
 import ImageZoom from 'react-native-web-image-pan-zoom';
 import styles from './image-viewer.style';
 import { IImageInfo, IImageSize, Props, State } from './image-viewer.type';
